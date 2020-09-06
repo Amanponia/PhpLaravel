@@ -1,0 +1,24 @@
+/* footer */
+.footer {
+    width: 100%;
+    height: 25px;
+    position: fixed;        
+    background-color:#422057FF;
+    padding: 2px 0;
+    color: #fff;
+    
+    margin: 0 auto; 
+    bottom: 0;
+   
+    
+    font-style: italic;
+    font-size: medium;
+   /* Some padding */
+    text-align:center; /* Center text*/
+    
+   
+  }
+
+ /* body {
+  background-color: rgb(218, 219, 224);
+ }  */
